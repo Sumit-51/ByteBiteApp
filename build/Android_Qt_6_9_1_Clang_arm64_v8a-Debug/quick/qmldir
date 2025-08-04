@@ -1,0 +1,6 @@
+module quick
+typeinfo appquick.qmltypes
+prefer :/qt/qml/quick/
+Main 1.0 Main.qml
+OrderStatus 1.0 OrderStatus.qml
+

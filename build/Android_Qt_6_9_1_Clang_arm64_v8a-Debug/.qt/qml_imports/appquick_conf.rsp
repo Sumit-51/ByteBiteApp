@@ -1,0 +1,14 @@
+-rootPath
+D:/qt/quickandroid
+-cmake-output
+-output-file
+D:/qt/quickandroid/build/Android_Qt_6_9_1_Clang_arm64_v8a-Debug/.qt/qml_imports/appquick_conf.cmake
+-importPath
+D:/qt/quickandroid/build/Android_Qt_6_9_1_Clang_arm64_v8a-Debug/quick
+-importPath
+D:/qt/quickandroid/build/Android_Qt_6_9_1_Clang_arm64_v8a-Debug
+-importPath
+C:/Qt/6.9.1/android_arm64_v8a/qml
+-qrcFiles
+D:/qt/quickandroid/build/Android_Qt_6_9_1_Clang_arm64_v8a-Debug/.qt/rcc/qmake_quick.qrc
+D:/qt/quickandroid/build/Android_Qt_6_9_1_Clang_arm64_v8a-Debug/.qt/rcc/appquick_raw_qml_0.qrc

@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appquick_FILE D:/qt/quickandroid/build/Android_Qt_6_9_1_Clang_arm64_v8a-Debug/libappquick_arm64-v8a.so)
+set(__QT_DEPLOY_TARGET_appquick_TYPE MODULE_LIBRARY)

@@ -1,0 +1,10 @@
+-I
+D:/qt/quickandroid/build/Android_Qt_6_9_1_Clang_arm64_v8a-Debug
+-I
+C:/Qt/6.9.1/android_arm64_v8a/qml
+--resource
+D:/qt/quickandroid/build/Android_Qt_6_9_1_Clang_arm64_v8a-Debug/.qt/rcc/qmake_quick.qrc
+--resource
+D:/qt/quickandroid/build/Android_Qt_6_9_1_Clang_arm64_v8a-Debug/.qt/rcc/appquick_raw_qml_0.qrc
+--module
+quick

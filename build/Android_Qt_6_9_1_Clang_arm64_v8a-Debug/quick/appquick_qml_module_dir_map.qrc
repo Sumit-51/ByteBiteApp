@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/quick">D:/qt/quickandroid/build/Android_Qt_6_9_1_Clang_arm64_v8a-Debug/quick</file>
+
+  </qresource>
+</RCC>

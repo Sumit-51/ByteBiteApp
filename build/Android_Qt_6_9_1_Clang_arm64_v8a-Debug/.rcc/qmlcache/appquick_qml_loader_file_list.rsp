@@ -1,0 +1,15 @@
+--resource
+D:/qt/quickandroid/build/Android_Qt_6_9_1_Clang_arm64_v8a-Debug/.qt/rcc/qmake_quick.qrc
+--resource
+D:/qt/quickandroid/build/Android_Qt_6_9_1_Clang_arm64_v8a-Debug/.qt/rcc/appquick_raw_qml_0.qrc
+/qt/qml/quick/Main.qml
+/qt/qml/quick/loginpage.qml
+/qt/qml/quick/selectrestaurant.qml
+/qt/qml/quick/pratimamenu.qml
+/qt/qml/quick/pawanmenu.qml
+/qt/qml/quick/nightordermenu.qml
+/qt/qml/quick/hkmenu.qml
+/qt/qml/quick/sherpamenu.qml
+/qt/qml/quick/paymentpage.qml
+/qt/qml/quick/ordertracking.qml
+/qt/qml/quick/OrderStatus.qml

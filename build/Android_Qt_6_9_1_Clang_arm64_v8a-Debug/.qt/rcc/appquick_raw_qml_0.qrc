@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="/qt/qml/quick/">
+    <file alias="Main.qml">D:/qt/quickandroid/Main.qml</file>
+    <file alias="loginpage.qml">D:/qt/quickandroid/loginpage.qml</file>
+    <file alias="selectrestaurant.qml">D:/qt/quickandroid/selectrestaurant.qml</file>
+    <file alias="pratimamenu.qml">D:/qt/quickandroid/pratimamenu.qml</file>
+    <file alias="pawanmenu.qml">D:/qt/quickandroid/pawanmenu.qml</file>
+    <file alias="nightordermenu.qml">D:/qt/quickandroid/nightordermenu.qml</file>
+    <file alias="hkmenu.qml">D:/qt/quickandroid/hkmenu.qml</file>
+    <file alias="sherpamenu.qml">D:/qt/quickandroid/sherpamenu.qml</file>
+    <file alias="paymentpage.qml">D:/qt/quickandroid/paymentpage.qml</file>
+    <file alias="ordertracking.qml">D:/qt/quickandroid/ordertracking.qml</file>
+    <file alias="OrderStatus.qml">D:/qt/quickandroid/OrderStatus.qml</file>
+  </qresource>
+</RCC>
+

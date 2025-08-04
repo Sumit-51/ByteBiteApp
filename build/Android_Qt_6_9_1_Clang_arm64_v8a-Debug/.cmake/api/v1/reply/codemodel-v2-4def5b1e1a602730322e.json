@@ -1,0 +1,295 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-cac992f9797fc7755b6d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "quick",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "_qt_internal_apk_dependencies::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_qt_internal_apk_dependencies-Debug-f97e9891ead75aa4d91a.json",
+					"name" : "_qt_internal_apk_dependencies",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aab-Debug-591610bf19e92b4712f1.json",
+					"name" : "aab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aar-Debug-04859e2a7c43d0191575.json",
+					"name" : "aar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-e75aa443bcfbf43df916.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-457d65ae31b941e21a0a.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-1c072d3ac3e28fa2ee95.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-be244b9abc786a48be77.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-abf6af19173b98da6d8c.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apk::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apk-Debug-5df3d72f428906d43c4a.json",
+					"name" : "apk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apk_all::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apk_all-Debug-8f7813723ed72ef88d04.json",
+					"name" : "apk_all",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appquick::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appquick-Debug-eb6686f05fe51854064c.json",
+					"name" : "appquick",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appquick_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appquick_autogen-Debug-24878ba246c5ef4970e3.json",
+					"name" : "appquick_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appquick_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appquick_autogen_timestamp_deps-Debug-caf71b7b801949ebb200.json",
+					"name" : "appquick_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appquick_copy_apk_dependencies::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appquick_copy_apk_dependencies-Debug-659b7dda30f5e3a0242a.json",
+					"name" : "appquick_copy_apk_dependencies",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appquick_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appquick_copy_qml-Debug-70a994a3a83af4b50d1e.json",
+					"name" : "appquick_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appquick_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appquick_copy_res-Debug-78f896951dd29f718f9a.json",
+					"name" : "appquick_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appquick_make_aab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appquick_make_aab-Debug-25e74d8a28d413bcbea0.json",
+					"name" : "appquick_make_aab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appquick_make_aar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appquick_make_aar-Debug-7ce88193219b683ca242.json",
+					"name" : "appquick_make_aar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appquick_make_apk::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appquick_make_apk-Debug-6daa673f61ab153b4e3e.json",
+					"name" : "appquick_make_apk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appquick_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appquick_other_files-Debug-108a5a0fe7842aaad75d.json",
+					"name" : "appquick_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appquick_prepare_apk_dir::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appquick_prepare_apk_dir-Debug-c306e3ef6f54e1519e11.json",
+					"name" : "appquick_prepare_apk_dir",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appquick_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appquick_qmllint-Debug-5fbb7d66631ffa45a7e3.json",
+					"name" : "appquick_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appquick_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appquick_qmllint_json-Debug-79c1f9a093176386cc43.json",
+					"name" : "appquick_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appquick_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appquick_qmllint_module-Debug-4a0451f0a35558406987.json",
+					"name" : "appquick_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appquick_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appquick_qmltyperegistration-Debug-57490fd738671af05ab6.json",
+					"name" : "appquick_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appquick_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appquick_aotstats_target-Debug-91406bb4a9053a10df10.json",
+					"name" : "module_appquick_aotstats_target",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt_internal_plugins::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt_internal_plugins-Debug-628fcd06d893df4c547b.json",
+					"name" : "qt_internal_plugins",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/qt/quickandroid/build/Android_Qt_6_9_1_Clang_arm64_v8a-Debug",
+		"source" : "D:/qt/quickandroid"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
